@@ -45,3 +45,5 @@ TokTik provides a simple and intuitive user interface within the terminal. Follo
 ![TokTik Screenshot](images/screenshot.png)
 ![TokTik Screenshot](images/screenshot2.png)
 ![TokTik Screenshot](images/screenshot3.png)
+
+<img src="images/screenshot.png" alt="TokTik Screenshot" width="200">
