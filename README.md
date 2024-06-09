@@ -1,6 +1,6 @@
 # TokTik 
 
-![TokTik Logo](images/image.png)
+<img src="images/image.png" alt="TokTik Screenshot" width="200">
 
 TokTik is a Java terminal application built with a binary search tree data structure. It allows users to manage accounts and posts, akin to a simplified social media platform. This README provides an overview of the project, installation instructions, usage guide, and more.
 
