@@ -41,7 +41,9 @@ TokTik provides a simple and intuitive user interface within the terminal. Follo
 - Efficient data organization using binary search trees
 
 ## Screenshots 📷
-<img src="images/screenshot.png" alt="TokTik Screenshot" width="400">
-<img src="images/screenshot2.png" alt="TokTik Screenshot" width="400">
-<img src="images/screenshot3.png" alt="TokTik Screenshot" width="400">
+<div style = "display: flex;flex-direction: row;">
+    <img src="images/screenshot.png" alt="TokTik Screenshot" width="400">
+    <img src="images/screenshot2.png" alt="TokTik Screenshot" width="400">
+    <img src="images/screenshot3.png" alt="TokTik Screenshot" width="400">
+</div>
 
