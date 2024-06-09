@@ -42,8 +42,8 @@ TokTik provides a simple and intuitive user interface within the terminal. Follo
 
 ## Screenshots 📷
 <div style = "display: flex;flex-direction: row;justify-content: space-between;">
-    <img src="images/screenshot.png" alt="TokTik Screenshot" height = 100% width="33%">
-    <img src="images/screenshot2.png" alt="TokTik Screenshot" height = 100% width="33%">
-    <img src="images/screenshot3.png" alt="TokTik Screenshot" height = 100% width="33%">
+    <img src="images/screenshot.png" alt="TokTik Screenshot" height = "400px" width="33%">
+    <img src="images/screenshot2.png" alt="TokTik Screenshot" height = "400px" width="33%">
+    <img src="images/screenshot3.png" alt="TokTik Screenshot" height = "400px" width="33%">
 </div>
 
